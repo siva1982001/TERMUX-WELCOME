@@ -21,5 +21,5 @@ _____  ____  ___   _   _  _     _
   
 date | lolcat
 echo "YOUTUBE CHANNEL  :www.youtube.com/c/spgamingyt" | lolcat
-echo "TELEGRAM         :t.me/sivaprsad123        " | lolcat
+echo "TELEGRAM         :t.me/sivaprasad123        " | lolcat
 echo "crafter by       :@sivaprasad123" | lolcat

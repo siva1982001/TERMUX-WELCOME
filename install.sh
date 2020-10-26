@@ -3,7 +3,7 @@ echo ""
 echo ""
 echo "Installing Packages"
 echo "==================="
-echo "By @certified_youtuber"
+echo "By @sivaprasad123"
 echo "==================="
 echo ""
 apt update
@@ -21,7 +21,7 @@ echo "Installed All Packages" |lolcat
 echo "========================="
 echo "Ready To Go.........." |lolcat
 echo "========================="
-echo "Done By @Certified_youtuber" |lolcat
+echo "Done By @sivaprasad123" |lolcat
 echo "========================="
 echo "Restart Your Termux App" |lolcat
 echo "========================="

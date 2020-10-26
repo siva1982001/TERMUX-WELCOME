@@ -5,9 +5,9 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;3
 clear
 mpv /$HOME/TERMUX-WELCOME/terminal.mp3
 clear
-echo -e "Created By @CERTIFIED_YOUTUBER" | lolcat
+echo -e "Created By siva prasad" | lolcat
 echo "----------------------------" | lolcat
-echo "BY script kiddie Youtube channel " | lolcat
+echo "BY SPgaming Youtube channel " | lolcat
 echo "╦ ╦╔═╗╦  ╔═╗╔═╗╔╦╗╔═╗"  | lolcat
 echo "║║║║╣ ║  ║  ║ ║║║║║╣  " | lolcat
 echo "╚╩╝╚═╝╩═╝╚═╝╚═╝╩ ╩╚═╝ " | lolcat
@@ -15,11 +15,11 @@ echo "╚╩╝╚═╝╩═╝╚═╝╚═╝╩ ╩╚═╝ " | lolcat
                                                                
 echo "
 _____  ____  ___   _   _  _     _        
- | |  | |_  | |_) | |\/| | | | \ \_/     
- |_|  |_|__ |_| \ |_|  | \_\_/ /_/ \     
+  |    |_    |_)   |\/|   | |   \_/     
+  |    |__   | \   |  |   \_/   / \     
 " | lolcat
   
 date | lolcat
-echo "YOUTUBE CHANNEL  :www.youtube.com/c/scriptkiddietelugu" | lolcat
+echo "YOUTUBE CHANNEL  :www.youtube.com/c/spgamingyt" | lolcat
 echo "TELEGRAM GROUP   :t.me/scriptKiddiesvR          " | lolcat
-echo "crafter by       :@certified_youtuber" | lolcat
+echo "crafter by       :@sivaprasad123" | lolcat
